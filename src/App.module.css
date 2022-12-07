@@ -7,7 +7,7 @@
 
 /* Lista de tareas */
 .taskContainer {
-  min-width: 600px;
+  min-width: 320px;
   min-height: 500px;
   font-family: inherit;
   background-color: #d0d0d5;
