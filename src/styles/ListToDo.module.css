@@ -1,0 +1,6 @@
+.listToDoContainer {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap column;
+  margin-top: 15px;
+}

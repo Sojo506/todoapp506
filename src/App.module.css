@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Lista de tareas */
+.taskContainer {
+  min-width: 600px;
+  min-height: 500px;
+  font-family: inherit;
+  background-color: #d0d0d5;
+  padding: 25px;
+  margin: 10px;
+  border-radius: 1rem;
+}
+
+.taskContainer h1 {
+  font-size: 2.5rem;
+  font-family: inherit;
+  text-align: center;
+  color: #1b1b32;
+  margin: 0 0 2rem 0;
+}
